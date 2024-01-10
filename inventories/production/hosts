@@ -5,21 +5,21 @@
 # Add here list of hosts or ip adresses of pvwa dedicated machines
 # pvwa01.example.com
 # pvwa02.example.com
-10.2.0.155
+pas.grabo.local
 
 
 [cpm]
 # Add here list of hosts or ip adresses of cpm dedicated machines
 # cpm01.example.com
 # cpm02.example.com
-10.2.0.155
+w2k16-compsrv.grabo.local
 
 
 [psm]
 # Add here list of hosts or ip adresses of psm dedicated machines
 # psm01.example.com
 # psm02.example.com
-10.2.0.155
+
 
 
 [psmp]
